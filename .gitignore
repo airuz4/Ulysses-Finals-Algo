@@ -1,0 +1,18 @@
+# Compiled Java classes and build folders
+*.class
+bin/
+out/
+build/
+
+# Packaged JARs (distribute via GitHub Releases or final submission zip)
+*.jar
+
+# IDE and OS metadata
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+.DS_Store
+Thumbs.db
