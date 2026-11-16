@@ -1,2 +1,8 @@
 # Ulysses-Finals-Algo
-An interactive Java desktop simulator for Operating System scheduling algorithms (FCFS, Preemptive Priority CPU Scheduling, C-SCAN, and C-LOOK Disk Scheduling), featuring a Java Swing / JavaFX GUI with dynamic execution charts. (Operating Systems Finals Project)
+OS Scheduling Algorithm Simulator is an interactive Java desktop application built to visualize how an operating system manages CPU processes and disk I/O requests. Powered by a Java Swing and JavaFX graphical interface, the simulator allows users to input custom workloads, step through execution in real time, and analyze performance metrics through dynamic charts.
+
+Supported Algorithms:
+
+CPU Scheduling: First-Come, First-Served (FCFS) and Preemptive Priority
+
+Disk Scheduling: Circular SCAN (C-SCAN) and Circular LOOK (C-LOOK)
