@@ -3,7 +3,6 @@
 A standalone Java Swing desktop application built for **ICS26012 – Operating Systems** (1st Semester, AY 2026–2027) that simulates two CPU scheduling algorithms and two disk scheduling algorithms.
 
 * **Group:** Group 4 – Ulysses (Section 3ITB)
-* **Repository:** `<paste your GitHub repository link here>`
 
 ## Group Members & Assigned Algorithms
 
