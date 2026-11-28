@@ -29,9 +29,9 @@ java -version
 ## How to Set Up and Run
 
 ### Option 1: Run the Executable JAR (Recommended)
-Double-click `uly.jar` or run it from a terminal:
+Double-click `Uly.jar` or run it from a terminal:
 ```bash
-java -jar uly.jar
+java -jar Uly.jar
 ```
 
 ### Option 2: Compile and Run from Source
