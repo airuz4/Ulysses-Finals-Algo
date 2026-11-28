@@ -3,6 +3,7 @@
 A standalone Java Swing desktop application built for **ICS26012 – Operating Systems** (1st Semester, AY 2026–2027) that simulates two CPU scheduling algorithms and two disk scheduling algorithms.
 
 * **Group:** Group 4 – Ulysses (Section 3ITB)
+* **Repository:** `<paste your GitHub repository link here>`
 
 ## Group Members & Assigned Algorithms
 
@@ -29,9 +30,9 @@ java -version
 ## How to Set Up and Run
 
 ### Option 1: Run the Executable JAR (Recommended)
-Double-click `CpuDiskScheduler.jar` or run it from a terminal:
+Double-click `uly.jar` or run it from a terminal:
 ```bash
-java -jar CpuDiskScheduler.jar
+java -jar uly.jar
 ```
 
 ### Option 2: Compile and Run from Source
@@ -40,21 +41,21 @@ From the project root folder:
 **Windows (PowerShell / Command Prompt):**
 ```powershell
 mkdir out
-javac -d out src\Main.java src\cpu\*.java src\disk\*.java src\ui\*.java
+javac --release 17 -d out src\Main.java src\cpu\*.java src\disk\*.java src\ui\*.java
 java -cp out Main
 ```
 
 **macOS / Linux:**
 ```bash
 mkdir -p out
-javac -d out src/Main.java src/cpu/*.java src/disk/*.java src/ui/*.java
+javac --release 17 -d out src/Main.java src/cpu/*.java src/disk/*.java src/ui/*.java
 java -cp out Main
 ```
 
 ### Building the Executable JAR
 After compiling into `out/`:
 ```bash
-jar cfe CpuDiskScheduler.jar Main -C out .
+jar cfe uly.jar Main -C out .
 ```
 
 ---
