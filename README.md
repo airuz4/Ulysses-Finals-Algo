@@ -9,10 +9,10 @@ A standalone Java Swing desktop application built for **ICS26012 – Operating S
 
 | Member | Algorithm | Coordination Role |
 | :--- | :--- | :--- |
-| Justin Rei M. Aviles | C-LOOK | Documentation Lead |
-| Airuz Arnold D. Balungay | C-SCAN | Leader |
-| Carlo Magnus I. Cuison | First-Come First-Served (FCFS) | Video Lead |
-| Johann Henreich R. Gomez | Priority (Preemptive) | Testing Lead |
+| justin-aviles | C-LOOK | Documentation Lead |
+| airuz4 | C-SCAN | Leader |
+| tent-spritemismo | First-Come First-Served (FCFS) | Video Lead |
+| JoHenreich | Priority (Preemptive) | Testing Lead |
 
 ---
 
